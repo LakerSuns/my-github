@@ -1,0 +1,80 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-07 16:30:03
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-03-18 08:49:16
+*/
+
+.computer{
+	width: 500px;
+	height: 888px;
+	margin: 0 auto;
+}
+.head{
+	width: 500px;
+	height: 78px;
+	background: #00a5c4;
+}
+.jitext{
+	width: 200px;
+	height: 78px;
+	font-size: 34px;
+	color: white;
+	float: left;
+	margin-left: 20px;
+	line-height: 78px;
+}
+.sandian{
+	width: 15px;
+	height: 50px;
+	float: right;
+	background: red;
+    margin-right: 15px;
+    margin-top: 12px;
+}
+.window{
+	width: 500px;
+	height: 259px;
+	background: #f0f0f0;
+}
+.window img{
+	width: 11px;
+	height: 146px;
+	float: right;
+	margin-right: 10px;
+}
+.down{
+	width: 500px;
+	height: 47px;
+	background: #DFE3E4;
+}
+.down img{
+	margin-top: 3px;
+	margin-left: 215px;
+}
+.buttons{
+    width: 100%;
+    height: 504px;
+}
+.anjian{
+	width: 123px;
+	height: 99px;
+	margin-right: 2px;
+	margin-bottom: 2.5px;
+	/* div heng pai*/
+	float:left;
+	font-size: 38px;
+	color: #21555f;
+	text-align: center;
+	line-height: 99px;
+}
+.anjian1{
+	width: 124px;
+}
+.anjian2{
+	margin-right: 0;
+}
+.anjian3{
+	height: 96px;
+	margin-bottom: 0;
+}
